@@ -1,6 +1,5 @@
 import Editor from "@monaco-editor/react";
 import { useWorkspace } from "../../context/WorkspaceContext";
-import { LANGUAGE_META } from "../../config/languages";
 import { useRef } from "react";
 import "../../styles/editor.css";
 
@@ -13,7 +12,6 @@ export default function CodeEditor() {
   }
 
   const ext = activeFile.split(".").pop();
-  const meta = LANGUAGE_META[ext] || {};
 
   return (
     <Editor

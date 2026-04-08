@@ -16,7 +16,7 @@ export default function RunBar() {
   const isDirty = activeFile && dirtyFiles.has(activeFile);
 
   const ext = activeFile?.split(".").pop();
-  const meta = LANGUAGE_META[ext] || {};
+
 
   const handleRun = () => {
     if (isProject) {
