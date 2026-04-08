@@ -1,5 +1,4 @@
 import { useWorkspace } from "../../context/WorkspaceContext";
-import { LANGUAGE_META } from "../../config/languages";
 import "../../styles/editor.css";
 
 export default function RunBar() {
