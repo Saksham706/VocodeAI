@@ -4,6 +4,8 @@
 
 ---
 
+## Live Demo - 
+[www.vocodeai.com]
 ## 🌐 Overview
 
 **VocodeAI** is a powerful cloud-based coding platform that allows users to write and execute code directly from the browser — without installing compilers, SDKs, or dependencies like C++, JDK, Python, etc.
@@ -64,11 +66,11 @@ Supports execution of:
 ---
 
 ## Images 
-<img width="1000" height="400" alt="Screenshot 2026-03-22 123313" src="https://github.com/user-attachments/assets/08b1dbab-adc1-423e-8aa1-7af6da2b168a"/>
-<img width="1000" height="400" alt="Screenshot 2026-03-22 123325" src="https://github.com/user-attachments/assets/12a94d9d-1bc0-48b9-96c4-e3c4bf359683" />
-<img width="450" height="500" alt="Screenshot 2026-03-22 123336" src="https://github.com/user-attachments/assets/477d89cb-d6d5-44ed-820a-6263dcd9f523" />
-<img width="1000" height="500" alt="Screenshot 2026-03-22 124042" src="https://github.com/user-attachments/assets/e7f95754-f5c7-4b28-9731-109f44c51b0c" />
-<img width="1000" height="500" alt="Screenshot 2026-03-22 123751" src="https://github.com/user-attachments/assets/c1243964-ee58-4547-bbfb-d5b7fa3f96f1" />
+<img width="1895" height="821" alt="image" src="https://github.com/user-attachments/assets/d1a03404-c782-4e76-b7cb-1b15279cc435" />
+<img width="1887" height="821" alt="image" src="https://github.com/user-attachments/assets/d85a4642-e4a8-43d0-82dc-4f7e282a56a4" />
+<img width="1908" height="594" alt="image" src="https://github.com/user-attachments/assets/5c21f947-dc63-456c-b8b4-ca6665351220" />
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/c566324d-c518-4bd1-be90-30f0eaed99eb" />
+
 
 ## 📁 Project Structure
 ```
