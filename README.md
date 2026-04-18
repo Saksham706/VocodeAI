@@ -5,7 +5,7 @@
 ---
 
 ## Live Demo - 
-[www.vocodeai.com]
+www.vocodeai.com
 ## 🌐 Overview
 
 **VocodeAI** is a powerful cloud-based coding platform that allows users to write and execute code directly from the browser — without installing compilers, SDKs, or dependencies like C++, JDK, Python, etc.
