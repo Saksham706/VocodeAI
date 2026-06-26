@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="250" height="500" alt="vcode" src="https://github.com/user-attachments/assets/fa3bb61d-35b1-4669-bc46-67fe5f0b4ed1" />
+<img width="426" height="488" alt="icon" src="https://github.com/user-attachments/assets/5e238dae-7c27-4aaa-9761-19f27f1e63c9" />
+
+
+# 🎙️ VOCODEAI
 
 
 ### 🚀 AI Powered Voice Assistant & Intelligent Automation Platform
