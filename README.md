@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="426" height="488" alt="icon" src="https://github.com/user-attachments/assets/5e238dae-7c27-4aaa-9761-19f27f1e63c9" />
-
+<img width="250" height="250" alt="icon" src="https://github.com/user-attachments/assets/5e238dae-7c27-4aaa-9761-19f27f1e63c9" />
 
 # 🎙️ VOCODEAI
 
