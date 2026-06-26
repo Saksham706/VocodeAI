@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="250" height="250" alt="icon" src="https://github.com/user-attachments/assets/5e238dae-7c27-4aaa-9761-19f27f1e63c9" />
+<img width="150" height="150" alt="icon" src="https://github.com/user-attachments/assets/5e238dae-7c27-4aaa-9761-19f27f1e63c9" />
 
 # VOCODEAI
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-### 🔗 https://your-live-demo-link.vercel.app/
+### 🔗 https://vocodeai.com/
 
 </div>
 
