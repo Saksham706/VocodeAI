@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100" height="100" alt="vcode" src="https://github.com/user-attachments/assets/fa3bb61d-35b1-4669-bc46-67fe5f0b4ed1" />
+<img width="250" height="500" alt="vcode" src="https://github.com/user-attachments/assets/fa3bb61d-35b1-4669-bc46-67fe5f0b4ed1" />
 
 
 ### 🚀 AI Powered Voice Assistant & Intelligent Automation Platform
