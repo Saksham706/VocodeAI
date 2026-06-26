@@ -163,23 +163,12 @@ The platform enables:
 <br/>
 
 <img width="100%" height="250" alt="image" src="https://github.com/user-attachments/assets/507c0f01-1847-4624-b81a-82874f10c305" />
+<br/><br/>
 <img width="100%" height="250" alt="image" src="https://github.com/user-attachments/assets/a45a28c9-05c8-4ba2-a81c-33376dd652ca" />
+<br/><br/>
 <img width="100%" height="250" alt="image" src="https://github.com/user-attachments/assets/4eefa6e8-d744-4722-9a47-89b96cd5f846" />
+<br/><br/>
 <img width="100%" height="250" alt="image" src="https://github.com/user-attachments/assets/54e9fbf9-4957-4305-89ae-a2204f58d377" />
-
-
-
-<br/><br/>
-
-<img width="100%" src="YOUR_SCREENSHOT_2"/>
-
-<br/><br/>
-
-<img width="100%" src="YOUR_SCREENSHOT_3"/>
-
-<br/><br/>
-
-<img width="100%" src="YOUR_SCREENSHOT_4"/>
 
 ---
 
